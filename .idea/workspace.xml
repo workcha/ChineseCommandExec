@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cfcbea2-2c14-4e0d-b78f-73f4d4b6b879" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="2cfcbea2-2c14-4e0d-b78f-73f4d4b6b879" name="Changes" comment="解决go语言执行命令出现中文乱码问题" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,6 +75,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="解决go语言执行命令出现中文乱码问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="解决go语言执行命令出现中文乱码问题" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
